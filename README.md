@@ -1,5 +1,6 @@
 ## scriptydude's little github page ##
 - Just a goober
+- From Russia
 - Lua, C#, C (Currently learning)
 - I like doing gamedev stuff
 
@@ -8,8 +9,6 @@
 Email: *not available now*
 
 Discord: *scriptydude*
-
-Youtube: https://www.youtube.com/@scriptydude8334
 
 <!---
 what do i write here lolo
