@@ -3,11 +3,7 @@
 - Lua, C#, C (Currently learning)
 - I like doing gamedev stuff
 
-### Contacts ###
-
-Email: *not available now*
-
-Discord: *scriptydude*
+**I think I forgot what is my goal... uhhh... It's probably... Ehh whatever**
 
 <!---
 what do i write here lolo
