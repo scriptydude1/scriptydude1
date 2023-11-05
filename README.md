@@ -1,6 +1,5 @@
 ## scriptydude's little github page ##
-- Just a goober
-- From Russia
+- Just a goober from russia.
 - Lua, C#, C (Currently learning)
 - I like doing gamedev stuff
 
