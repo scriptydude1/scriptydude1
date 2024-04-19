@@ -1,4 +1,4 @@
-## scriptydude's little github page ##
+## scriptydude's/kirya's little github page ##
 - Just a goober from russia.
 - Lua, C#, a little bit of C
 - I like doing gamedev stuff
